@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# Stylometry Practical Application
 
-You can use the [editor on GitHub](https://github.com/kokhandrii/studystyle.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Styolmetry is a friend of with of text analysis, security, forensics.
+In nutshell this is text analysis with goal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### To learn from
+Patrick Juola
+http://members.unine.ch/jacques.savoy/
+https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Author Attribution
+| | | | 
+|--|--|--|
+|Author Confirmation Analysis| Author Identification|Author Source Verification|
+|Author Verification|Authorship|Authorship Attribution|
+|Authorship Recognition|Authorship Validation|Authorship Verification|
+|Disputed Documents|Document Analysis|Document Author|
+|Document Authorship|Document Identification|Document Review|
+|Document Source|eDocument Analysis|Electronic Document Source|
+|Expedited Document Review|Forensic Document Analysis|Forensic Linguistics|
+|Forensic Stylometry|Forgery|Fraud Verification|
+|Linguistic Analysis|Natural Language Processing|Stylometry|
+|Text Analysis|Text Comparison and Analysis|Text Origin Authentication||
+|Writing Source|
 
-```markdown
-Syntax highlighted code block
+## AUTHOR CHARACTERISTIC PROFILING
+||||
+|--|--|--|
+|Author Origin Analysis|Author Profiling|Country of Origin Validation|
+|Country of Origin Verification|Demographic Profiling|Document Analysis|
+|Document Review|eDocument Analysis|Expedited Document Review|
+|Forensic Document Analysis|Forensic Linguistics|Forensic Stylometry|
+|Linguistic Analysis|Nationality Authentication|Origin Identification|
+|Stylometry|Text Analysis|
 
-# Header 1
-## Header 2
-### Header 3
+## Plagiarism
+||||
+|--|--|--|
+|Document Analysis|Document Review|eDocument Analysis|
+|Expedited Document Review|Forensic Document Analysis|Forensic Stylometry|
+|Linguistic Analysis|Literary Copyright Protection|Plagiarism Determination|
+|Plagiarism Identification|Plagiarism Verification|Stylometry|Text Analysis|
 
-- Bulleted
-- List
+## LARGE SCALE DOCUMENT SEARCHING
+||||
+|--|--|--|
+|Document Analysis|Document Review|Document Searching|
+|eDiscoverye|Document Analysis|Expedited Document Review|
+|Forensic Document Analysis|Forensic Linguistics|Forensic Stylometry|
+|Linguistic Analysis|Stylometry|Text Analysis|
 
-1. Numbered
-2. List
+## EXPERT WITNESS TESTIMONY
+||||
+|--|--|--|
+|Author Analysis Expert|Document Identification Expert|eDiscovery|
+|Forensic Expert|Forensic Linguistics Expert|Immigration Asylum Expert|
+|Legal Expert Witness|Litigation Support|Text Analysis Expert|
 
-**Bold** and _Italic_ and `Code` text
+*Source: http://juolaassociates.com/our-services/*
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kokhandrii/studystyle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Based on this information only stylometry helps answer the questions
+- who is the author of the document?
+- what can you say about the author
+- is this document authentic
+- 
