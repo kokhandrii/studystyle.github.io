@@ -8,6 +8,13 @@ Patrick Juola
 http://members.unine.ch/jacques.savoy/
 https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python
 
+## Stylometric Features
+**Lexical**: Token-based (word length, sentence length, etc.), Vocabulary richness, Word frequencies, Word n-grams, Errors 
+**Character**: Character types (letters, digits, etc.), Character n-grams(fixed-length/variable-length), Compression methods
+**Syntactic**: Part-of-Speech,Chunks, Sentence and phrase, Rewrite rules, Errors
+**Semantic**: Synonyms, Semantic dependencies, Functional 
+**Application-specific**: Structural, Content-specific, Language-specific
+*ource: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.440.1634&rep=rep1&type=pdf*
 
 ## Author Attribution
 | | | | 
