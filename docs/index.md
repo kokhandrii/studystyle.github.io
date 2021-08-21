@@ -1,20 +1,36 @@
 # Stylometry Practical Application
 
-Styolmetry is a friend of with of text analysis, security, forensics.
+Styolmetry is a friend of text analysis, security, forensics, may also be applied to coding, music and art
 In nutshell this is text analysis with goal
 
+## Author's fingerprint
+
+Features:
+- Word frequencies
+- Word lengths
+-- Burrows’ Delta
+- Word co-occurrences
+
+*Source: https://fastdatascience.com/wp-content/uploads/2018/12/Forensic-Stylometry-for-Oxford.pdf*
+
+
 ### To learn from
-Patrick Juola
-http://members.unine.ch/jacques.savoy/
-https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python
+- Patrick Juola
+- http://members.unine.ch/jacques.savoy/
+- https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python
 
 ## Stylometric Features
-**Lexical**: Token-based (word length, sentence length, etc.), Vocabulary richness, Word frequencies, Word n-grams, Errors 
+**Lexical**: Token-based (word length, sentence length, etc.), Vocabulary richness, Word frequencies, Word n-grams, Errors
+
 **Character**: Character types (letters, digits, etc.), Character n-grams(fixed-length/variable-length), Compression methods
+
 **Syntactic**: Part-of-Speech,Chunks, Sentence and phrase, Rewrite rules, Errors
+
 **Semantic**: Synonyms, Semantic dependencies, Functional 
+
 **Application-specific**: Structural, Content-specific, Language-specific
-*ource: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.440.1634&rep=rep1&type=pdf*
+
+*Source: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.440.1634&rep=rep1&type=pdf*
 
 ## Author Attribution
 | | | | 
