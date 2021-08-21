@@ -16,6 +16,9 @@ Features:
 ## Burrows Delta
 - calculates the probability that two books were by the same author
 - a statistic which expresses the distance between two authors’ writing styles
+-  is designed to compare an anonymous text (or set of texts) to many different authors’ signatures at the same time
+-  measures how the anonymous text and sets of texts written by an arbitrary number of known authors all diverge from the average of all of them put together
+-  gives equal weight to every feature that it measures
 https://github.com/fastdatascience/faststylometry
 
 
