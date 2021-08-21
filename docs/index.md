@@ -13,6 +13,11 @@ Features:
 
 *Source: https://fastdatascience.com/wp-content/uploads/2018/12/Forensic-Stylometry-for-Oxford.pdf*
 
+## Burrows Delta
+- calculates the probability that two books were by the same author
+- a statistic which expresses the distance between two authors’ writing styles
+https://github.com/fastdatascience/faststylometry
+
 
 ### To learn from
 - Patrick Juola
