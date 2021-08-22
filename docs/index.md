@@ -3,6 +3,12 @@
 Styolmetry is a friend of text analysis, security, forensics, may also be applied to coding, music and art
 In nutshell this is text analysis with goal
 
+## To read
+- Juola, 2006;
+- Koppel et al., 2009; 
+- Oakes, 1998; 
+- Stamatatos, 2009
+
 ## Author's fingerprint
 
 Features:
