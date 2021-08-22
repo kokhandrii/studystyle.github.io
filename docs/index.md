@@ -22,6 +22,13 @@ Features:
 https://github.com/fastdatascience/faststylometry
 
 
+## Burrows method 
+- the first 50–100 most common words had proven to be good candidates because they seemed to distinguish reliably between authors
+- describes the distance between one text and a group of text
+- uses the Manhattan distance
+
+https://academic.oup.com/dsh/article/32/suppl_2/ii4/3865676
+
 ### To learn from
 - Patrick Juola
 - http://members.unine.ch/jacques.savoy/
