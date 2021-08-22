@@ -1,4 +1,4 @@
-Different Types of Distance Metrics used in Machine Learning
+### Different Types of Distance Metrics used in Machine Learning
 
 - Minkowski distance
 - Manhattan distance
