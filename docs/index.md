@@ -8,7 +8,6 @@ In nutshell this is text analysis with goal
 Features:
 - Word frequencies
 - Word lengths
--- Burrows’ Delta
 - Word co-occurrences
 
 *Source: https://fastdatascience.com/wp-content/uploads/2018/12/Forensic-Stylometry-for-Oxford.pdf*
