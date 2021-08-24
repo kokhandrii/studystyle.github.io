@@ -106,4 +106,3 @@ Based on this information only stylometry helps answer the questions
 - who is the author of the document?
 - what can you say about the author
 - is this document authentic
-- 
