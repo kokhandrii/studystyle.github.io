@@ -7,3 +7,8 @@
 - Cosine distance
 
 *Source: https://medium.com/@kunal_gohrani/different-types-of-distance-metrics-used-in-machine-learning-e9928c5e26c7*
+
+
+### Multivariate Analysis
+
+### Pricipal Component Analysis
