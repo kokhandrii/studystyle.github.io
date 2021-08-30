@@ -12,3 +12,7 @@
 ### Multivariate Analysis
 
 ### Pricipal Component Analysis
+
+### Gaussian distribution
+
+### Laplace distribution
